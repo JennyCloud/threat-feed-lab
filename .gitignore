@@ -1,0 +1,6 @@
+output/*.csv
+output/*.zip
+__pycache__/
+*.pyc
+.venv/
+inmemory.zip
