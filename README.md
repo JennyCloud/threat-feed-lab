@@ -18,8 +18,14 @@ The script writes:
 
 Example (PowerShell):
 
-```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python .\threat_feed_etl.py
+
+## Relevance to Technical Analyst Roles
+This lab demonstrates practical skills relevant to technical analyst and security operations roles:
+- Maintaining and validating a public threat-intelligence feed
+- Automating repeatable data ingestion tasks with Python
+- Producing clean, analyst-ready datasets for dashboards and reporting
+- Documenting operational workflows and common failure scenarios
